@@ -1,1 +1,3 @@
 MNIST/
+*.zip
+cats_dogs_data/
